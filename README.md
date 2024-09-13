@@ -28,4 +28,11 @@
 - 챗봇 개발
 - sidebar + navigation 활용
 - 이미지 분석 후 추천 관리 제공 + 기본 채팅 구성
-  - session_state를 통해 기존 내용 history에 담아서 구성 
+  - session_state를 통해 기존 내용 history에 담아서 구성
+
+### 실행 결과 
+![앙투라지_챗봇_git](https://github.com/user-attachments/assets/d8d62291-1417-4d06-b374-0a6c554a5370)
+
+
+
+
